@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rumeth Gunasinghe
-- 👀 I’m interested in java, Python, Web Designing
-- 🌱 I’m currently learning Java, Angular, Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, ML,  React, VUE
 - 📫 You can reach me using linkedin @Rumeth Gunasinghe
 
 <!---
