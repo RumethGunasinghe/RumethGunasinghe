@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Rumeth Gunasingha
 
-🎓 Third Year Software Engineering (Honours) student in Swinburne University of Technology
-💻 Passionate about full-stack development, AI, and intelligent systems  
-📍 From Melbourne
-🌱 Currently building: AI-powered route guidance systems, Vue.js recipe sharing platforms, and modern store management Systems
+- 🎓 Third Year Software Engineering (Honours) student in Swinburne University of Technology
+- 💻 Passionate about full-stack development, AI, and intelligent systems  
+- 📍 From Melbourne
+- 🌱 Currently building: AI-powered route guidance systems, Vue.js recipe sharing platforms, and modern store management Systems
 
 ---
 
