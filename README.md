@@ -24,9 +24,9 @@
 ---
 
 ## 🧠 Currently studing
--Concurrent Programming
--Deploying Secure Engineering Applications Online
--Software Development for Mobile Devices
+- Concurrent Programming
+- Deploying Secure Engineering Applications Online
+- Software Development for Mobile Devices
 ---
 
 
